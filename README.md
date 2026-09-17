@@ -68,9 +68,15 @@ app/src/main/
 1. Open the project folder in **Android Studio**.
 2. Perform a Gradle Sync (`File -> Sync Project with Gradle Files`).
 3. Connect an Android device or start an Android Virtual Device (AVD).
-4. Click **Run** (`Shift + F10`) or execute `./gradlew app:assembleDebug` in terminal.
+4. Click **Run** (`Shift + F10`) or execute `./gradlew app:assembleDebug` in terminal
 
 ---
+
+### Screenshot
+<img width="371" height="796" alt="image" src="https://github.com/user-attachments/assets/1d8c287b-3932-4eb3-aed2-8633c710b88d" />
+<img width="381" height="792" alt="image" src="https://github.com/user-attachments/assets/3664446b-b26b-4ba4-9526-1979ad718858" />
+
+
 
 ## 👤 Author
 
